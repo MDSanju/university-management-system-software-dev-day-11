@@ -54,6 +54,11 @@
             "date": 1692620897501,
             "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-21-08-18-error.log",
             "hash": "83337ec29a18ed3fbd360504d7666021e46564ec26e77e2457fdf5c4d8e529f2"
+        },
+        {
+            "date": 1692623285752,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-21-08-19-error.log",
+            "hash": "ff61e3daefbf3c818c282e736cdd244426ed435565b994b31d15578df635e5f8"
         }
     ],
     "hashType": "sha256"
