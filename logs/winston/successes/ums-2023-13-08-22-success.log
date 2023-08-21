@@ -1,0 +1,12 @@
+{
+  message: 'Successfully database connected!',
+  level: 'info',
+  label: 'UMS',
+  timestamp: '2023-08-13T16:25:57.256Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UMS',
+  timestamp: '2023-08-13T16:25:57.319Z'
+}
