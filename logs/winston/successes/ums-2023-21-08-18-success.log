@@ -2,47 +2,47 @@
   message: 'Successfully database connected!',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:03:36.605Z'
+  timestamp: '2023-08-21T12:28:20.958Z'
 }
 {
   message: 'Server is running on port 5000',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:03:36.616Z'
+  timestamp: '2023-08-21T12:28:20.971Z'
 }
 {
   message: 'Successfully database connected!',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:04:56.274Z'
+  timestamp: '2023-08-21T12:29:43.471Z'
 }
 {
   message: 'Server is running on port 5000',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:04:56.284Z'
+  timestamp: '2023-08-21T12:29:43.486Z'
 }
 {
   message: 'Successfully database connected!',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:06:11.695Z'
+  timestamp: '2023-08-21T12:53:36.442Z'
 }
 {
   message: 'Server is running on port 5000',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:06:11.709Z'
+  timestamp: '2023-08-21T12:53:36.465Z'
 }
 {
   message: 'Successfully database connected!',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:19:33.811Z'
+  timestamp: '2023-08-21T12:55:42.272Z'
 }
 {
   message: 'Server is running on port 5000',
   level: 'info',
   label: 'UMS',
-  timestamp: '2023-08-03T04:19:33.824Z'
+  timestamp: '2023-08-21T12:55:42.291Z'
 }
