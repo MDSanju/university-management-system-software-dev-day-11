@@ -1,105 +1,135 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\.4f80aef97f53c39381fedacc31f427784a79f8ca-audit.json",
-  "files": [
-    {
-      "date": 1691943952848,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-13-08-22-error.log",
-      "hash": "c9d84345b0d58a1a85549d75a24602600f83ad7ce14eb25e9dce4be91d5d8094"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1692265188454,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-17-08-15-error.log",
-      "hash": "049d22172cf2ccca93166e3ad024e3151f72cdcb6a0fb26cac592af3e4949ca1"
-    },
-    {
-      "date": 1692267922775,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-17-08-16-error.log",
-      "hash": "ebff0ab9be224f02e567f4ac168d5c60ac067f53bfc8292d337805e4718daa4d"
-    },
-    {
-      "date": 1692294805328,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-17-08-23-error.log",
-      "hash": "02e78e6d9399596e9c84d7a43fd1dff366c2b2b9f8799b63b2337b0488b711e2"
-    },
-    {
-      "date": 1692295272501,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-00-error.log",
-      "hash": "3a049930f7ebdc3d92f8c033fe2aa2984f39a2648f0607adf1e90ef91940673c"
-    },
-    {
-      "date": 1692344648347,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-13-error.log",
-      "hash": "998c3569e9f7ae17286352b8fe851b55b98796cb905ca9f740194579100bedd0"
-    },
-    {
-      "date": 1692345723199,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-14-error.log",
-      "hash": "c53e32d0232ffaba3f30abdb4837d7920e89cef686f997d8c3d1c5461942b861"
-    },
-    {
-      "date": 1692349555998,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-15-error.log",
-      "hash": "0ec24dd68fe1c5280df1b1c99c67b896af8051f94f2022d1ef70ace26f4b4edc"
-    },
-    {
-      "date": 1692356126432,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-16-error.log",
-      "hash": "208eaf5408db3ae8ab599d74b77d6febbebd117c6223e1e1ea97bf305eb6fdf4"
-    },
-    {
-      "date": 1692620897501,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-21-08-18-error.log",
-      "hash": "83337ec29a18ed3fbd360504d7666021e46564ec26e77e2457fdf5c4d8e529f2"
-    },
-    {
-      "date": 1692623285752,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-21-08-19-error.log",
-      "hash": "ff61e3daefbf3c818c282e736cdd244426ed435565b994b31d15578df635e5f8"
-    },
-    {
-      "date": 1692699313662,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-22-08-16-error.log",
-      "hash": "def8c5bbc188b3785342e9f211ad93e6cae3ae43850ffab34e7d94eccdb4e473"
-    },
-    {
-      "date": 1692702967591,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-22-08-17-error.log",
-      "hash": "929579421ff099595cb17565d322113572946ff623d43a7693460bee05b503d9"
-    },
-    {
-      "date": 1692738552152,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-03-error.log",
-      "hash": "5c997989812da4834b5b581807b9fea25bf78db8473d95614a519ec5fe594760"
-    },
-    {
-      "date": 1692777021881,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-13-error.log",
-      "hash": "6f0db1f23274d80d7383990b70acdc243803e44641a7f15f2d9f21f55dae9c68"
-    },
-    {
-      "date": 1692777740128,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-14-error.log",
-      "hash": "6dcd2c01ee0155afab08e19c825f0c00f8faa69dcf3c61db59a6535cfc4d9279"
-    },
-    {
-      "date": 1692783857661,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-15-error.log",
-      "hash": "5814cb6166a25d50507067d1783fe904ec7829d2f02b1199f7caaca7c7fbbfd7"
-    },
-    {
-      "date": 1692786848155,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-16-error.log",
-      "hash": "b3a30ce226cf5410b3bde7df35a401d58b79152f0960999d1b49fde0138c6680"
-    },
-    {
-      "date": 1692789100559,
-      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-17-error.log",
-      "hash": "1d219d706c42ab2350555c142646e9e4e88ec89eefe86f545da2550cb5b3b120"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\.4f80aef97f53c39381fedacc31f427784a79f8ca-audit.json",
+    "files": [
+        {
+            "date": 1692344648347,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-13-error.log",
+            "hash": "998c3569e9f7ae17286352b8fe851b55b98796cb905ca9f740194579100bedd0"
+        },
+        {
+            "date": 1692345723199,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-14-error.log",
+            "hash": "c53e32d0232ffaba3f30abdb4837d7920e89cef686f997d8c3d1c5461942b861"
+        },
+        {
+            "date": 1692349555998,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-15-error.log",
+            "hash": "0ec24dd68fe1c5280df1b1c99c67b896af8051f94f2022d1ef70ace26f4b4edc"
+        },
+        {
+            "date": 1692356126432,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-18-08-16-error.log",
+            "hash": "208eaf5408db3ae8ab599d74b77d6febbebd117c6223e1e1ea97bf305eb6fdf4"
+        },
+        {
+            "date": 1692620897501,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-21-08-18-error.log",
+            "hash": "83337ec29a18ed3fbd360504d7666021e46564ec26e77e2457fdf5c4d8e529f2"
+        },
+        {
+            "date": 1692623285752,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-21-08-19-error.log",
+            "hash": "ff61e3daefbf3c818c282e736cdd244426ed435565b994b31d15578df635e5f8"
+        },
+        {
+            "date": 1692699313662,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-22-08-16-error.log",
+            "hash": "def8c5bbc188b3785342e9f211ad93e6cae3ae43850ffab34e7d94eccdb4e473"
+        },
+        {
+            "date": 1692702967591,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-22-08-17-error.log",
+            "hash": "929579421ff099595cb17565d322113572946ff623d43a7693460bee05b503d9"
+        },
+        {
+            "date": 1692738552152,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-03-error.log",
+            "hash": "5c997989812da4834b5b581807b9fea25bf78db8473d95614a519ec5fe594760"
+        },
+        {
+            "date": 1692777021881,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-13-error.log",
+            "hash": "6f0db1f23274d80d7383990b70acdc243803e44641a7f15f2d9f21f55dae9c68"
+        },
+        {
+            "date": 1692777740128,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-14-error.log",
+            "hash": "6dcd2c01ee0155afab08e19c825f0c00f8faa69dcf3c61db59a6535cfc4d9279"
+        },
+        {
+            "date": 1692783857661,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-15-error.log",
+            "hash": "5814cb6166a25d50507067d1783fe904ec7829d2f02b1199f7caaca7c7fbbfd7"
+        },
+        {
+            "date": 1692786848155,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-16-error.log",
+            "hash": "b3a30ce226cf5410b3bde7df35a401d58b79152f0960999d1b49fde0138c6680"
+        },
+        {
+            "date": 1692789100559,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-23-08-17-error.log",
+            "hash": "1d219d706c42ab2350555c142646e9e4e88ec89eefe86f545da2550cb5b3b120"
+        },
+        {
+            "date": 1692870933711,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-24-08-15-error.log",
+            "hash": "de399aae034de6265d829f5bda71e38f3e45f7970227b7690147bfb0d75afa34"
+        },
+        {
+            "date": 1693191667564,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-28-08-09-error.log",
+            "hash": "bdf40c10ee32d731fa28038a92c5c4ca7a67bf4d87aef090d76a8d70142482a6"
+        },
+        {
+            "date": 1693195207226,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-28-08-10-error.log",
+            "hash": "69396e4de1f33711ed6a395b5218238c81799687b137d61dfb7f5a6446a35406"
+        },
+        {
+            "date": 1693214300080,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-28-08-15-error.log",
+            "hash": "7690a6ad5c9ab735ceb36854a52cec5ab86b92e5b96fa74da55b819f15d91832"
+        },
+        {
+            "date": 1693220427072,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-28-08-17-error.log",
+            "hash": "907641826126f97020e7d7b905d5fb4a3a9a267d0caace4ff7fd73aed76c4b11"
+        },
+        {
+            "date": 1693225533166,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-28-08-18-error.log",
+            "hash": "63d6453469fb6299e288fa94ccefebd475ecdfbe99b008b453a362d1659ed3c4"
+        },
+        {
+            "date": 1693227895772,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-28-08-19-error.log",
+            "hash": "6a55068975da789f05717a250fc0e90a8273622a6f5b99e34c70df5ee2478648"
+        },
+        {
+            "date": 1693374007647,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-30-08-11-error.log",
+            "hash": "778c7e462db16c16e6415db559f2fb6ea7f7aa8bdae80742d1cb45342b1c81be"
+        },
+        {
+            "date": 1693375696254,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-30-08-12-error.log",
+            "hash": "497261d41da891ee6f0d9fc9d3a35f7d25be77ad1911799bf7a19b8bd49d7e7f"
+        },
+        {
+            "date": 1693378904564,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-30-08-13-error.log",
+            "hash": "42e64e8a509dc119948a95c7f7cf136d8467edc7ed170e1390a4b93497fb15bc"
+        },
+        {
+            "date": 1693542591357,
+            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\errors\\ums-2023-01-09-10-error.log",
+            "hash": "a9041c92529bee00d79d1dae0e9f25f4692febc81f8290a421565da845735c9e"
+        }
+    ],
+    "hashType": "sha256"
 }
