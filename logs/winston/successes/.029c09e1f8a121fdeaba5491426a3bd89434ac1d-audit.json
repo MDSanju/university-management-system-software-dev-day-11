@@ -1,20 +1,20 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\successes\\.029c09e1f8a121fdeaba5491426a3bd89434ac1d-audit.json",
+  "files": [
+    {
+      "date": 1695720619340,
+      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\successes\\ums-2023-26-09-15-success.log",
+      "hash": "a8008bf583011ba4ae89043304b3e629f9b8df4cf855af9236617f808bc380ab"
     },
-    "auditLog": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\successes\\.029c09e1f8a121fdeaba5491426a3bd89434ac1d-audit.json",
-    "files": [
-        {
-            "date": 1695720619340,
-            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\successes\\ums-2023-26-09-15-success.log",
-            "hash": "a8008bf583011ba4ae89043304b3e629f9b8df4cf855af9236617f808bc380ab"
-        },
-        {
-            "date": 1695754349901,
-            "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\successes\\ums-2023-27-09-00-success.log",
-            "hash": "ae3253edca9112be288473342b65c752d17de032841a4d738418c92cffb34ea0"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1695754349901,
+      "name": "C:\\Software Development Level-2\\11-university-management-system-software-dev-day-11\\logs\\winston\\successes\\ums-2023-27-09-00-success.log",
+      "hash": "ae3253edca9112be288473342b65c752d17de032841a4d738418c92cffb34ea0"
+    }
+  ],
+  "hashType": "sha256"
 }
