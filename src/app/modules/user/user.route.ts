@@ -7,9 +7,21 @@ import { UserValidation } from './user.validation';
 const router = express.Router();
 
 router.post(
-  '/create-user/',
-  RequestValidation(UserValidation.createUserZodSchema),
-  UserController.createUser,
+  '/create-student',
+  RequestValidation(UserValidation.createStudentZodSchema),
+  UserController.createStudent,
+);
+
+router.post(
+  '/create-faculty',
+  RequestValidation(UserValidation.createFacultyZodSchema),
+  UserController.createFaculy,
+);
+
+router.post(
+  '/create-admin',
+  RequestValidation(UserValidation.createAdminZodSchema),
+  UserController.createAdmin,
 );
 
 export const UserRoutes = router;
